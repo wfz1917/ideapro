@@ -17,4 +17,5 @@ public class ConsumerController {
         return "hi provider,===========" + hello;
     }
 
+    public void mastertest (){}
 }
