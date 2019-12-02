@@ -16,6 +16,9 @@ public class ConsumerController {
         String hello = this.providerClient.hello();
         return "hi provider,===========" + hello;
     }
+    public void devtest(){
+
+    }
 
     public void mastertest (){}
 }
